@@ -18,9 +18,12 @@ $ pip3 install ptflops
 - torchsummary
 
 ```bash
-pip3 install torchsummary
-pip install chainer_computational_cost
+$ pip3 install torchsummary
 ```
 
 ## compute params
 
+```bash
+$ ./mobileNet_params.py 
+$ ./resnet_params.py
+```
