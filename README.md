@@ -27,3 +27,6 @@ $ pip3 install torchsummary
 $ ./mobileNet_params.py 
 $ ./resnet_params.py
 ```
+
+
+## reference
